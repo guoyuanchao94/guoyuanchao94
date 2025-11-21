@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=160&section=header&text=Hi%20There!%20I'm%20a%20C++%20Dev&fontSize=32&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=160&section=header&text=Hi%20There!%20I'm%20a%20C/+/+%20Dev&fontSize=32&fontColor=ffffff" />
 </p>
 
 <!-- Introduction -->
