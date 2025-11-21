@@ -1,64 +1,62 @@
-# 👋 Hi! I'm a C++ Developer on My Way Up
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=160&section=header&text=Hi%20There!%20I'm%20a%20C++%20Dev&fontSize=32&fontColor=ffffff" />
+</p>
 
-I'm currently a **junior C++ developer** working hard to level up my skills.  
-Still learning, still experimenting, still breaking things (and fixing them 😅).
-
----
-
-## 🔧 What I'm Learning Right Now
-
-- Modern C++ (C++17 / C++20)
-- Boost & Asio 异步编程  
-- 网络通信（TCP/WebSocket、Beast、协议解析）  
-- Qt / Qt6 应用开发  
-- OpenCV 基础  
-- 编译器、构建系统（CMake、MSVC、GCC、Clang）
-
-我现在主要在理解“底层是怎么跑起来的”，包括：
-- 内存管理  
-- 编译 & 链接  
-- 多线程 & IO  
-- 网络协议  
-- 库的源码阅读  
-
-一步一步来，大佬们都是这么过来的。
+<!-- Introduction -->
+## 👋 Hey there!
+I'm a **junior C++ developer** exploring the world of modern C++ and systems programming.  
+Still grinding, still learning — and loving every minute of it.
 
 ---
 
-## 🚧 My Current Projects
+## 🌈 What I'm Focusing On
 
-- 🌐 C++ 网络服务端练习（Boost.Asio / Beast）  
-- 🎬 Qt + FFmpeg / VLC 播放器相关的小 Demo  
-- 🧪 JSON、文件处理、协议实现的工具类  
-- 🧱 一些关于 C++ 基础理解的实验仓库  
-
-这些都是我练手用的，未来会逐渐把 demo 整理成更系统的项目。
-
----
-
-## 🎯 My Goals
-
-- 写出更现代、更干净的 C++ 代码  
-- 掌握异步编程和网络服务端架构  
-- 理解底层原理，而不是只会“代码能跑就行”  
-- 增加自己的项目作品集  
-- 成为一个能独当一面的 C++ 工程师  
+- ⚙️ Modern C++ (C++17/20)
+- ⚡ Asynchronous programming (Boost.Asio / Beast)
+- 🖥 Qt / Qt6 application development
+- 🎬 Multimedia & video playback demo (VLC / FFmpeg)
+- 📡 Networking: WebSocket, TCP, protocol parsing
+- 🔍 Exploring computer systems fundamentals
 
 ---
 
-## 📊 GitHub Stats (Just for fun)
+## 🚀 Current Side Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guoyuanchao94&show_icons=true&theme=transparent)
+- 🌐 C++ network server demos  
+- 🪟 Qt client tools + UI experiments  
+- 🧪 JSON/文件处理/协议工具库  
+- 🎞 Video player prototypes
 
 ---
 
-## 💬 A Little About Me
+## 🎯 My Dev Goals
 
-- 我喜欢拆代码、翻源码、搞清楚“为什么”  
-- 对系统架构、网络通信和底层实现很感兴趣  
-- 喜欢一点点把复杂东西拆开理解  
+- Write cleaner, modern C++  
+- Understand system-level fundamentals  
+- Build stable network services  
+- Grow into a strong C++ backend dev  
 
-**虽然我现在水平不高，但我每天都在变强。**
+---
 
-如果你也在学 C++，欢迎一起交流！
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guoyuanchao94&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 💬 About Me
+
+- 🌱 Constantly learning, always curious  
+- 🧠 Love understanding “why” behind the code  
+- 🔧 Enjoy improving skills step by step  
+- 🤝 Open to discussions about C++ / Networking / Qt  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer" />
+</p>
 
