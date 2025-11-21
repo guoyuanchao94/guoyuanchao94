@@ -15,18 +15,8 @@ Still grinding, still learning — and loving every minute of it.
 - ⚙️ Modern C++ (C++17/20)
 - ⚡ Asynchronous programming (Boost.Asio / Beast)
 - 🖥 Qt / Qt6 application development
-- 🎬 Multimedia & video playback demo (VLC / FFmpeg)
 - 📡 Networking: WebSocket, TCP, protocol parsing
 - 🔍 Exploring computer systems fundamentals
-
----
-
-## 🚀 Current Side Projects
-
-- 🌐 C++ network server demos  
-- 🪟 Qt client tools + UI experiments  
-- 🧪 JSON/文件处理/协议工具库  
-- 🎞 Video player prototypes
 
 ---
 
