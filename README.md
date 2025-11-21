@@ -5,5 +5,5 @@
 - 🎞️ I'm also publishing .NET and Python related video tutorials on [Bilibili](https://space.bilibili.com/600592) (in Chinese)
 - 📑 If you are developing WPF, Win UI, MAUI, Avalonia UI following MVVM pattern, check out my [CommunityToolkit.Mvvm Zero to Hero Tutorial!](https://mvvm.coldwind.top)
 
-![my status](https://github-readme-stats.vercel.app/api?username=Huang Zheng&show_icons=true)
+![my status](https://github-readme-stats.vercel.app/api?username=guoyuanchao94&show_icons=true)
 
